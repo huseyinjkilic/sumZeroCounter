@@ -11,9 +11,19 @@ after /data/ you should add your array values with comma separator.
 I didn't check edge cases like letter values etc.
 default values localhost:8080/ return 2. I used for testing.
 
+```diff
+- Test cases:
+```
+
 Test case are created. There is two separete test case class. https://github.com/huseyinjkilic/sumZeroCounter/tree/master/zeroCounter/src/test/java/com/huseyin
 ZeroCounterApplicationIT.java testing general rest related.
 ZeroCounterApplicationTests.java I use to test my logic. There is 5 different scenario.
+
+```diff
+- Source Code:
+```
+You can find my source code under this location;
+https://github.com/huseyinjkilic/sumZeroCounter/tree/master/zeroCounter/src/main/java/com/huseyin
 
 ```diff
 - Complexity calculation
