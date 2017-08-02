@@ -14,5 +14,7 @@ Test case are created. There is two separete test case class. https://github.com
 ZeroCounterApplicationIT.java testing general rest related.
 ZeroCounterApplicationTests.java I use to test my logic. There is 5 different scenario.
 
-Complexity calculation
+```diff
+- Complexity calculation
+```
 ![alt text](https://github.com/huseyinjkilic/sumZeroCounter/blob/master/time_Compelexity.png)
